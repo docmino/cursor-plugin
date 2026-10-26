@@ -1,0 +1,14 @@
+{
+  "name": "docmino",
+  "displayName": "Docmino",
+  "version": "0.1.2",
+  "description": "Create, edit, organize, and share interactive guides, lessons, forms, and client plans in Docmino.",
+  "author": {
+    "name": "Docmino Inc.",
+    "email": "hello@docmino.com"
+  },
+  "homepage": "https://docmino.com",
+  "repository": "https://github.com/docmino/cursor-plugin",
+  "keywords": ["docmino", "mcp", "guides", "documentation", "education", "forms"],
+  "logo": "assets/icon.png"
+}
